@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.exe
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.deps.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.runtimeconfig.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.runtimeconfig.dev.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\ref\LINQ_extension_methods.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\bin\Debug\net5.0\LINQ_extension_methods.pdb
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.AssemblyInfo.cs
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\ref\LINQ_extension_methods.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.pdb
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\LINQ_extension_methods\obj\Debug\net5.0\LINQ_extension_methods.genruntimeconfig.cache
