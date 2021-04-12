@@ -8,21 +8,17 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\filip\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\filip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
       "projectName": "LINQ_extension_methods",
-      "projectPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
+      "projectPath": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\obj\\",
+      "outputPath": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -27,7 +27,24 @@ namespace LINQ_extension_methods
                 new Employee {Id = 3, Name = "Konrad"}
             };
 
+            var query = developers.Where(e => e.Name.Length > 5)
+                                  .OrderBy(e => e.Name);
+            foreach (var emoployee in query)
+            {
+                Console.WriteLine(emoployee.Name);
+            }
 
+            var query2 = from developer in developers
+                         where developer.Name.Length == 5
+                         orderby developer.Name
+                         select developer;
+
+            foreach (var emoployee in query2)
+            {
+                Console.WriteLine(emoployee.Name);
+            }
+
+            Console.WriteLine("test");
             foreach (var employee in developers.Where(NameStarsWithS))
             {
                 Console.WriteLine(employee.Name);
