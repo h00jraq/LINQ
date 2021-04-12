@@ -1,0 +1,16 @@
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.exe
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.deps.json
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.runtimeconfig.json
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.runtimeconfig.dev.json
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.dll
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\ref\Queries.dll
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\bin\Debug\net5.0\Queries.pdb
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.csprojAssemblyReference.cache
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.AssemblyInfoInputs.cache
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.AssemblyInfo.cs
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.csproj.CoreCompileInputs.cache
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.dll
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\ref\Queries.dll
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.pdb
+C:\Users\filip\Source\Repos\h00jraq\LINQ\LINQ_extension_methods\Queries\obj\Debug\net5.0\Queries.genruntimeconfig.cache
