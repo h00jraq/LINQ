@@ -20,32 +20,38 @@ namespace Queries
             };
             Console.WriteLine("objects created");
             var query = movies.Where(m => m.Year > 2000);
-                              
 
-            foreach (var movie in query)
+            //Console.WriteLine(query.Count());
+            var enumarator = query.GetEnumerator();
+            while (enumarator.MoveNext())
             {
-                Console.WriteLine(movie.Title);
+                Console.WriteLine(enumarator.Current.Title);
             }
-            Console.WriteLine("---Extensiion Linq method---");
 
-            var query3 = movies.Filter(m => m.Year > 2000);
+            //foreach (var movie in query)
+            //{
+            //    Console.WriteLine(movie.Title);
+            //}
+            //Console.WriteLine("---Extensiion Linq method---");
+
+            //var query3 = movies.Filter(m => m.Year > 2000);
                              
 
-            foreach (var movie in query3)
-            {
-                Console.WriteLine(movie.Title);
-            }
-            Console.WriteLine("--My Own Extension method---");
+            //foreach (var movie in query3)
+            //{
+            //    Console.WriteLine(movie.Title);
+            //}
+            //Console.WriteLine("--My Own Extension method---");
 
-            var query2 = from movie in movies
-                         where movie.Year > 2000
-                         select movie;
+            //var query2 = from movie in movies
+            //             where movie.Year > 2000
+            //             select movie;
 
-            foreach (var movie in query2)
-            {
-                Console.WriteLine(movie.Title);
-            }
-            Console.WriteLine("--Linq query---");
+            //foreach (var movie in query2)
+            //{
+            //    Console.WriteLine(movie.Title);
+            //}
+            //Console.WriteLine("--Linq query---");
         }
     }
 }

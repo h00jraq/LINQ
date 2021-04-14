@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LINQ_extension_methods",
+    "\\LINQ_extension_methods\\LINQ_extension_methods",
+    "\\LINQ_extension_methods\\Queries"
   ],
+  "SelectedNode": "\\LINQ_extension_methods\\Queries\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

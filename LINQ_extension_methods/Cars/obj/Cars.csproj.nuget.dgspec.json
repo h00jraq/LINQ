@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj": {}
+    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Cars\\Cars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj": {
+    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Cars\\Cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
-        "projectName": "LINQ_extension_methods",
-        "projectPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\LINQ_extension_methods.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Cars\\Cars.csproj",
+        "projectName": "Cars",
+        "projectPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Cars\\Cars.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\LINQ_extension_methods\\obj\\",
+        "outputPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Cars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

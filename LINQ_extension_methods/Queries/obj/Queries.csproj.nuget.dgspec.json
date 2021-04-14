@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj": {}
+    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj": {
+    "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj",
         "projectName": "Queries",
-        "projectPath": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj",
+        "projectPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\Queries.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filip\\Source\\Repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\obj\\",
+        "outputPath": "C:\\Users\\filip\\source\\repos\\h00jraq\\LINQ\\LINQ_extension_methods\\Queries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",

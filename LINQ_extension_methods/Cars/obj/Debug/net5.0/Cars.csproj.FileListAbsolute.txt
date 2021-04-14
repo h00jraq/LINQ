@@ -1,0 +1,17 @@
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\fuel.csv
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.exe
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.deps.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.runtimeconfig.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.runtimeconfig.dev.json
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\ref\Cars.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\bin\Debug\net5.0\Cars.pdb
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.AssemblyInfo.cs
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\ref\Cars.dll
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.pdb
+C:\Users\filip\source\repos\h00jraq\LINQ\LINQ_extension_methods\Cars\obj\Debug\net5.0\Cars.genruntimeconfig.cache

@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_extension_methods", "LINQ_extension_methods\LINQ_extension_methods.csproj", "{172064A5-3931-43E0-8466-25ED507FBFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "Queries\Queries.csproj", "{9D221998-2862-47FE-A227-4950269CBEF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "Queries\Queries.csproj", "{9D221998-2862-47FE-A227-4950269CBEF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{EC530F68-EBB1-496F-919E-0E67CF7C7482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9D221998-2862-47FE-A227-4950269CBEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D221998-2862-47FE-A227-4950269CBEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D221998-2862-47FE-A227-4950269CBEF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC530F68-EBB1-496F-919E-0E67CF7C7482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC530F68-EBB1-496F-919E-0E67CF7C7482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC530F68-EBB1-496F-919E-0E67CF7C7482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC530F68-EBB1-496F-919E-0E67CF7C7482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
